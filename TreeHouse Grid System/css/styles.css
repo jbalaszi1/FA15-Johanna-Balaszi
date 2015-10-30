@@ -1,0 +1,60 @@
+/* =================================
+	YOUR STYLING
+====================================*/
+
+/* Body */
+
+body{
+background: url(../img/bg.png);
+
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+}
+
+/* Paragraphs */
+p {
+    font-family:  Geogia, Times, 'Times New Roman', serif;
+}
+
+/* Images */
+.pic {
+    border: 10px solid #fff;
+    border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =================================
+	DO NOT EDIT BELOW THIS LINE
+====================================*/
+body {
+	color: #333;
+	font-size: 120%;
+}
+
+p {
+ 	line-height: 24px;
+}
+
+header img {
+	width: 128px;
+}
+
+footer p {
+	font-size: .75em;
+}
+
